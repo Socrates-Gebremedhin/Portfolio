@@ -1,2 +1,2 @@
 # Portfolio
-Some Lists of Projects completed for showcasing
+Some list of Projects
